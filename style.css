@@ -1,0 +1,8 @@
+/* Start of herobanner */
+.hero-banner {
+    background-color: aquamarine;
+    display: flex;
+    flex-direction: column;
+    padding: 100px 200px;
+}
+/* End of hero banner */
